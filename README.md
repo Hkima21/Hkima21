@@ -1,4 +1,4 @@
-const chalk = require("chalk")
+noconst chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
